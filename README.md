@@ -1,7 +1,7 @@
 ## Hi there, I'm Prajwal Jadhav! 👋
 
-### 🌐 Web Developer and Development Aficionado: 
-I am deeply engrossed in the realm of web development, perpetually enhancing my skills and embracing new technologies.
+### 🌐 Development Aficionado: 
+I am deeply engrossed in the realm of development, perpetually enhancing my skills and embracing new technologies.
 
 ### 📧 Reach Out:
 - Email: [jadhav.prajwal777@gmail.com](mailto:jadhav.prajwal777@gmail.com)
@@ -12,7 +12,7 @@ I am deeply engrossed in the realm of web development, perpetually enhancing my 
 Mastering Full Stack Development and Data Analysis through comprehensive training.
 
 ### 🎮 Beyond Development:
-When I'm not coding, I relish practicing Karate, participating in various sports, and exploring illustrations and digital art.
+When I'm not coding, I relish practicing Karate, participating in various sports, and trekking.
 
 ### 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -23,19 +23,10 @@ When I'm not coding, I relish practicing Karate, participating in various sports
 ![HTML](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 GitHub Stats:
-![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwaldjadhav&show_icons=true&hide_border=true)
 
 ### 🚀 Featured Projects:
 - [**Project 1: Quick Resume**](https://github.com/prajwaldjadhav/quick-resume): A web application with user authentication, template selection, and Razorpay payment integration for seamless transactions.
