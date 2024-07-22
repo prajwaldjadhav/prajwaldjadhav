@@ -29,9 +29,9 @@ When I'm not coding, I relish practicing Karate, participating in various sports
 
 
 ### 🚀 Featured Projects:
-- [**Project 1: Quick Resume**](https://github.com/prajwaldjadhav/quick-resume): A web application with user authentication, template selection, and Razorpay payment integration for seamless transactions.
-- [**Project 2: Paperwork**](https://github.com/prajwaldjadhav/paperwork): An Android app featuring Document Scanner, PDF editing tools, Image to Text capabilities, QR code generation, and QR code reader.
-- [**Project 3: Classroom**](https://github.com/prajwaldjadhav/classroom): An Android app to streamline teacher-student communication and information sharing, with features like virtual classrooms and Google Sign-In.
+- [**Project 1: Quick Resume**](https://github.com/prajwaldjadhav/Resume_Builder): A web application with user authentication, template selection, and Razorpay payment integration for seamless transactions.
+- [**Project 2: Paperwork**](https://github.com/prajwaldjadhav/paper_work): An Android app featuring Document Scanner, PDF editing tools, Image to Text capabilities, QR code generation, and QR code reader.
+- [**Project 3: Classroom**](https://github.com/prajwaldjadhav/ClassRoom): An Android app to streamline teacher-student communication and information sharing, with features like virtual classrooms and Google Sign-In.
 
 ### 🌐 Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajwaldjadhav?tab=repositories)
